@@ -1,4 +1,4 @@
-# vue-app2_black
+# vue-app
 
 > A Vue.js project
 

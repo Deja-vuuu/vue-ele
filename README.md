@@ -5,7 +5,7 @@
 
 高仿饿了么app
 
-
+[点我预览][1]
 
 
 
@@ -20,35 +20,39 @@
 效果图如下：
 ----------
  
-![外卖01_商品页][1]
+
+![01商品页][2]
 
 
 ----------
 
-
-  ![外卖02_商品页_公告及优惠信息][2]
+![02商品页_公告及优惠信息][3]
   
 
 
 ----------
 
-![外卖03_商品页_购物车详情][3]
-
-
-----------
-![外卖04_商品页面_商品详情][4]
-
+![03_商品页_购物车详情][4]
 
 ----------
-![外卖05_评价页][5]
+
+![04_商品页面_商品详情][5]
+
+----------
+
+  
+![05_评价页][6]
+
+----------
+
 
   
   
-  
 
 
-  [1]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg
-  [2]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90/%E5%A4%96%E5%8D%9602_%E5%95%86%E5%93%81%E9%A1%B5_%E5%85%AC%E5%91%8A%E5%8F%8A%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF.jpg
-  [3]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90/%E5%A4%96%E5%8D%9603_%E5%95%86%E5%93%81%E9%A1%B5_%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AF%A6%E6%83%85.jpg
-  [4]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90/%E5%A4%96%E5%8D%9604_%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2_%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.jpg
-  [5]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90/%E5%A4%96%E5%8D%9605_%E8%AF%84%E4%BB%B7%E9%A1%B5.jpg
+  [1]: https://qaqxiyangyang.github.io/vue-ele/index.html#/goods
+  [2]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90%2B%E6%95%99%E7%A8%8B/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg
+  [3]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90+%E6%95%99%E7%A8%8B/%E5%A4%96%E5%8D%9602_%E5%95%86%E5%93%81%E9%A1%B5_%E5%85%AC%E5%91%8A%E5%8F%8A%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF.jpg
+  [4]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90%2B%E6%95%99%E7%A8%8B/%E5%A4%96%E5%8D%9603_%E5%95%86%E5%93%81%E9%A1%B5_%E8%B4%AD%E7%89%A9%E8%BD%A6%E8%AF%A6%E6%83%85.jpg
+  [5]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90+%E6%95%99%E7%A8%8B/%E5%A4%96%E5%8D%9604_%E5%95%86%E5%93%81%E9%A1%B5%E9%9D%A2_%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.jpg
+  [6]: https://raw.githubusercontent.com/QAQXiYangYang/vue-ele/master/%E7%B4%A0%E6%9D%90+%E6%95%99%E7%A8%8B/%E5%A4%96%E5%8D%9605_%E8%AF%84%E4%BB%B7%E9%A1%B5.jpg

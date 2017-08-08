@@ -3,10 +3,8 @@
 
 
 
-高仿饿了么app    &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp;[点我预览][1]
-
-
-
+高仿饿了么app    &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp;[点我预览][1]   <---此链接有效 但是有点慢
+ 
  1. 	此项目为外卖App核心的商家模块的SPA
  2. 	包括商品、评论、商家介绍、购物车等多个子模块
  3. 	使用Vuejs全家桶+ES6+Webpack等前端最新最热的技术

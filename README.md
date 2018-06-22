@@ -1,6 +1,6 @@
-# vue-ele
+## vue-ele
 
-
+![Travis](https://img.shields.io/badge/VUE--ELE-%E6%95%99%E7%A8%8B-yellowgreen.svg)
 
 
 高仿饿了么app    &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp;[点我预览][1]   <---此链接有效 但是有点慢

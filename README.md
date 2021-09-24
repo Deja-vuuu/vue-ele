@@ -1,10 +1,29 @@
-## vue-ele
+<div align="center">
+  <h1>
+     vue高仿饿了么app
+   
+ 
+ </h1>
+  <p>
+    <a href="https://github.com/Deja-vuuu/vue-ele" target="_black">
+      <img src="https://img.shields.io/github/stars/Deja-vuuu/vue-ele?color=%238aacf9&logo=github&style=flat-square" alt="stars" />
+    </a>
+    <a href="https://github.com/Deja-vuuu/vue-ele" target="_black">
+      <img src="https://img.shields.io/github/forks/Deja-vuuu/vue-ele?color=%238aacf9&logo=npm&style=flat-square" alt="forks" />
+    </a>
+  </p>
+  <p>
+   <p> 
+   <a href="https://Deja-vuuu.github.io/vue-ele/index.html#/goods" target="_black">
+      点我预览
+    </a>
+    <span> <---此链接有效 但是有点慢</span>
+  </p>
+</div>
 
-![Travis](https://img.shields.io/badge/VUE--ELE-%E6%95%99%E7%A8%8B-yellowgreen.svg)
-![此处输入图片的描述][1]
+<br />
 
 
-高仿饿了么app    &nbsp;  &nbsp;  &nbsp; &nbsp;&nbsp;[点我预览][2]   <---此链接有效 但是有点慢
  
  1. 	此项目为外卖App核心的商家模块的SPA
  2. 	包括商品、评论、商家介绍、购物车等多个子模块
